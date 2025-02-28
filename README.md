@@ -17,7 +17,7 @@ Meu nome é <b>Caroline Purcena</b>, sou estudante de Ciências da Computação 
 
 -----------------------------------------------------------
 <a href = "https://github.com/CarolPurcena">
-<img height = "120cm" src = "https://github-readme-stats.vercel.app/api?username=CarolPurcena&showicons=true?&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height = "120cm" src="https://github-readme-stats.vercel.app/api?username=CarolPurcena&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
 <h2> Contatos: </h2>
 <a href="https://www.linkedin.com/in/caroline-purcena-8a979125b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

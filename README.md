@@ -5,8 +5,6 @@
 
 Meu nome é <b>Caroline Purcena</b>, sou estudante de Ciências da Computação e atualmente estou no 4º período.
  
-  Pronomes: ela/dela
- 
  📍 Rio de Janeiro, Brasil
  
  No momento, estudo sobre Back-End.

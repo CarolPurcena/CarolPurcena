@@ -3,9 +3,7 @@
   👩🏻‍💻 Bem-vindo ao meu perfil do GitHub!
 --------------------------------------------------
 
-Meu nome é <b>Caroline Purcena</b>, sou estudante de Ciências da Computação e atualmente estou no 4º período.
- 
-No momento, estudo sobre Back-End.
+Meu nome é <b>Caroline Purcena</b>, sou estudante de Ciências da Computação e apaixonada por tecnologia. Atualmente estudo sobre back-end.
  
 📍 Maricá, RJ
 
